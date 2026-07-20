@@ -40,7 +40,6 @@ A full-stack e-commerce customer feedback module where users can view products, 
 
 ## Project Structure
 
-```text
 customer-feedback-product-rating
 │
 ├── backend
